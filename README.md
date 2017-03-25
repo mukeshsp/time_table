@@ -1,1 +1,2 @@
-# time_table
+#   time_table  6 sem
+ 
